@@ -1,0 +1,12 @@
+{
+  "name": "read-feed",
+  "version": "1.0.0",
+  "description": "Micro service to extract RSS/ATOM/JSON feed data",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "feed-reader": "^6.0.2"
+  },
+  "license": "MIT"
+}

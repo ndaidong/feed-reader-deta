@@ -1,0 +1,5 @@
+{
+  "name": "feed-reader-deta",
+  "description": "Micro service to extract RSS/ATOM/JSON feed data",
+  "runtime": "nodejs14.x"
+}
