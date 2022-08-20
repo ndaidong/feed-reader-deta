@@ -1,6 +1,6 @@
 # feed-reader-deta
 
-Demonstrate how to deploy feed-reader service to Deta cloud
+Demonstrate how to deploy [feed-reader](https://github.com/ndaidong/feed-reader) service to Deta cloud
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/ndaidong/feed-reader-deta)
 
