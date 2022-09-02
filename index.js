@@ -24,7 +24,7 @@ app.get('/', async (req, res) => {
     console.log(`Deny a bad request: ${originalUrl}`)
     return res.status(400).json({
       error: 1,
-      message: 'Required parameter `URL` is missing or invalid',
+      message: 'Required parameter `url` is missing or invalid',
       data: null
     })
   }
